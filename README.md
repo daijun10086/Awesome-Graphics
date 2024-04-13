@@ -4,4 +4,4 @@ This repo contains the resources for computer-graphics.
 
 ![](./assets/images/graphics.png)
 
-For me, computer graphics is so cool, since it always involve with cooling demos and it is the intersection of Computer Science, Mathematics and Physics, I love both!
+For me, computer graphics is so cool, since it always involve with cooling demos and it is the intersection of Computer Science, Mathematics and Physics, I love all of them!
